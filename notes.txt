@@ -1,0 +1,31 @@
+=================================
+CSS Selector settings
+
+div for :
+- written text : ".text-done"
+- current text : ".text-current"
+- not yet text : ".text-to-do"
+
+- input : ".inputbox"
+- wpm div : ".WPM"
+- timer div : ".timer"
+- reset div : ".reset"
+
+=================================
+
+Color Palette 
+- Beige : #F3F3E0
+- mild Blue : #607EA2
+- Light Blue : #b5cacc
+- Grey : #808080
+- Black : #000000
+
+=================================
+
+Framework Used : 
+- jquery-3.7.1
+- bootstrap@5.3.3
+
+================================
+
+Author : Jovaness Masterly 
